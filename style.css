@@ -1,0 +1,64 @@
+body {
+  background: rgb(0, 217, 255);
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+table {
+  color: white;
+  font-size: 110%;
+}
+
+head {
+  color: white;
+}
+
+/* <style type="text/css" > * {
+  padding: 0;
+  margin: 0;
+} */
+.content {
+  width: 360px;
+  height: 500px;
+  border: 21px ridge orangered;
+  padding: 5px;
+  margin: auto;
+}
+img {
+  width: 100%;
+  height: 500px;
+}
+/* </style > footer {
+  color: black;
+} */
+
+footer {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+ol {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+li {
+  font-size: large;
+  color: white;
+}
+
+li:active {
+  color: white;
+}
+
+body {
+  background: url("wallpaperdatadiri.jpg.jpg");
+  color: #fff;
+}
+
